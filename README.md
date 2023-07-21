@@ -8,7 +8,7 @@ And then I thought to give a boost to the food I love the most and I went to swi
 The goal of the project is to answer simple questions about swiggy customers, which food get orderd how many time, who was the loyal customer of swiggy, what was the average price, revenue per months 
 questions like this.
 
-##Database used
+## Database used
 There are 6 key Database to handel this queries
 1. Orders : The Orders table captures all the details about customers which tells us which user on which day from which restaurant of what amount the ordered. 
 2. Orders_details : The Orders_details captures which user has orders which food .
@@ -17,5 +17,5 @@ There are 6 key Database to handel this queries
 5. Restaurant : Restaurant table holds the information about r_id, r_name and which type of Cuisines are there.
 6. User : User tables holds information about the customers like name, email.
 
-##Entity Relationship diagram
+## Entity Relationship diagram
 
