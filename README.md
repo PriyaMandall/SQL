@@ -19,4 +19,4 @@ There are 6 key Database to handel this queries
 6. User : User tables holds information about the customers like name, email.
 
 ## Entity Relationship diagram
-
+![eer](https://github.com/PriyaMandall/SQL/assets/111956633/cdd99ad7-3130-494e-b01b-413bb0fdc411)
