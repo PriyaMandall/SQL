@@ -2,6 +2,7 @@
 
 ## Inspiration
 I was sitting and using my phone changing one platform to another scrolling Instagram and my eyes suddenly caught swiggy saying GIVE THE FOOD YOU LOVE A BOOST. 
+
 And then I thought to give a boost to the food I love the most and I went to swiggy page and there my mouth get watered but so as my eyes too then I thought why to waste water of my eyes let's keep restaurant in our pocket and do some work on swiggyyyy 
 
 ## Introduction
