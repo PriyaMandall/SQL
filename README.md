@@ -1,12 +1,14 @@
 # Swiggy Food Delivery
 
 ## Inspiration
-I was sitting and using my phone changing one platform to another scrolling Instagram and my eyes suddenly caught swiggy saying GIVE THE FOOD YOU LOVE A BOOST. 
+"Feast Your Eyes and Boost Your Food Love with Swiggy!
 
-And then I thought to give a boost to the food I love the most and I went to swiggy page and there my mouth get watered but so as my eyes too then I thought why to waste water of my eyes let's keep restaurant in our pocket and do some work on swiggyyyy 
+As I tapped and swiped through the virtual realms of Instagram, a delicious surprise caught my eye on Swiggy - 'Give the food you love a boost!' My taste buds tingled with excitement as I pondered giving an epic boost to my ultimate food crush. With a mere click, I was whisked away to the enticing world of Swiggy, and there it was - a food paradise that made my mouth water and my eyes sparkle with delight!
+
+But hey, why waste those precious teardrops of joy when you can carry a whole restaurant in your pocket!! Time to feed your cravings, energize your taste buds, and turn your food love into an unforgettable journey! So, let's spice up our life, one delicious order at a time, with the magic of Swiggyyyy!"
 
 ## Introduction
-The goal of the project is to answer simple questions about swiggy customers, which food get orderd how many time, who was the loyal customer of swiggy, what was the average price, revenue per months 
+The Goal of the Swiggy Database is to Satisfying Curiosity through Data, which food get orderd how many time, who was the loyal customer of swiggy, what was the average price, revenue per months etc
 questions like this.
 
 ## Database used
